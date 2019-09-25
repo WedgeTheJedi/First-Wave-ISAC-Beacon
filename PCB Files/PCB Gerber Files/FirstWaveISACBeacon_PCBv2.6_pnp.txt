@@ -1,0 +1,29 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=FirstWaveISACBeacon_PCBv2.6
+*Date=09:07:26
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;30.0188;-30.4257;-90;Bottom;Speaker
+2;;;23.5097;-27.19;0;Bottom;TXT1
+3;1k;THT;32.3288;-4.80552;0;Bottom;1K
+4;;;51.7487;-17.0054;90;Bottom;Adafruit Trinket Pro 5V
+5;;cpol-radial-100uf-25v;58.9988;-3.5356;-90;Bottom;6.3v 330uF1
+6;;;19.8028;-22.6961;0;Bottom;TXT2
+7;100k;THT;27.2488;-25.1255;0;Bottom;100k
+8;;;10.7195;-11.6119;180;Bottom;DFPlayer
+9;;cpol-radial-100uf-25v;27.2488;-16.2356;90;Bottom;6.3v 330uF
+10;100k;THT;22.1688;-14.9655;90;Bottom;100k
+11;;;5.55203;-26.8935;0;Bottom;SHD Logo
+12;;THT;50.1088;-2.26552;-90;Bottom;NeoPixel 16 [IGV]
+13;;;15.4345;-24.8774;0;Bottom;TXT3
+14;;THT;48.8388;-30.2055;90;Bottom;[+G-] Buttons 
