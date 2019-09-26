@@ -11,6 +11,9 @@ The First Wave ISAC Beacon is a recreation of the shoulder mounted radio worn by
 
 See the User Guide for information on how to access these features.
 
+Here is a video showcasing the effects, however the camera doesn’t show the light ring effects as well as I had hoped (especially the light ring turning red during Rogue mode). 
+https://vimeo.com/362583784
+
 To achieve the effects of the First Wave ISAC Beacon, I designed and created a custom circuit board that simplifies assembly and soldering.  Also developed custom Arduino software to run the device and effects.  
 
 See the Assembly Guide for a full list of parts and components as well as additional instructions and advice.
