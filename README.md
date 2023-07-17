@@ -18,3 +18,8 @@ To achieve the effects of the First Wave ISAC Beacon, I designed and created a c
 
 See the Assembly Guide for a full list of parts and components as well as additional instructions and advice.
 
+Latest updates:
+2023-07-17 - Was working on building a few of these and found that the latest libraries and Arduino IDE compiler have improved performance.  This lead to timing issues with my older code which I believe I have fixed.  I also refactored a lot of the code including button state handling to be more precise and avoid the code treating a single click as multiple clicks.
+             Known issue with current build: Rarely when you either enter or exit Rogue status the program will stop responding to further button clicks.  If this happens simply reboot the device, or add a but longer delay() at the end of the enter and exit Rogue functions.
+			 
+

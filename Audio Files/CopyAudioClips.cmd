@@ -1,3 +1,3 @@
-rmdir d:\mp3
-mkdir d:\mp3
-copy /Y .\*.mp3 d:\mp3\*.mp3
+rmdir e:\mp3
+mkdir e:\mp3
+copy /Y .\*.mp3 e:\mp3\*.mp3
